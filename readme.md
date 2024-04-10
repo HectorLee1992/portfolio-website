@@ -1,6 +1,6 @@
-# henryheffernan.com
+# portfolio.190308.xyz
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is one of two repositories created for my portfolio website <a href="https://portfolio.190308.xyz/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/HectorLee1992/win11React_CN"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:hectorlee1992@gmail.com">hectorlee1992@gmail.com</a></samp>
 
 <br>
 
@@ -27,3 +27,7 @@ npm run build
 # Serve the build using express
 npm start
 ```
+or
+
+you can try to deploy it on vercel~
+
