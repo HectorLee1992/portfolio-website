@@ -239,7 +239,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                     <p>But do enjoy what I have done so far :)</p>
                     <div style={styles.spacer} />
                     <div style={styles.spacer} /> */}
-                    <p>ArcLight 2024個人頁</p>
+                    <p>ArcLight 2024個人頁。感謝原作者<a href="https://github.com/henryjeff/portfolio-website" target="_blank">HenryJeff</a></p>
                     {mobileWarning && (
                         <>
                             <br />
